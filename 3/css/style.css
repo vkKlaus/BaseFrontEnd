@@ -143,13 +143,11 @@ a {
   border-collapse: collapse;
 }
 
-.pr-table-caption{
+.pr-table-caption {
   padding-bottom: 10px;
 }
 
-.pr-table-td-description,
-.pr-table-td-tg,
-.pr-table-th {
+.pr-table-cell {
   border: 2px solid #a0a0a0;
   padding: 10px;
 }
@@ -160,4 +158,8 @@ a {
 
 .pr-table-td-tg {
   width: 20%;
+}
+
+.pr-table-tf {
+  text-align: center;
 }
