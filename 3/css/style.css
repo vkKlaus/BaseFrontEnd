@@ -121,6 +121,17 @@ a {
   font-size: 18px;
 }
 
+.pr-list-ul{
+  list-style-type: none;
+}
+
+.pr-list-ul::before{
+  content: 	"\26AB";
+  color: var(--skillbox-color);
+  margin-right: .5em;
+  font-size: 1em;
+}
+
 .pr-paragraf {
   padding-left: 180px;
   margin-bottom: 20px;
@@ -162,4 +173,5 @@ a {
 
 .pr-table-tf {
   text-align: center;
+  color: var(--skillbox-color);
 }
