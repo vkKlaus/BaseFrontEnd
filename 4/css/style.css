@@ -204,7 +204,7 @@ a {
 
 .module-body{
   width: 100%;
-  min-height: 2240px;
+  padding-bottom: 500px;
   background-image: url(/imgModules/bgBody.png);
   background-repeat: no-repeat;
   background-position-x: center;
