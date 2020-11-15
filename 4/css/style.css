@@ -205,7 +205,7 @@ a {
 .module-body{
   width: 100%;
   padding-bottom: 500px;
-  background-image: url(/imgModules/bgBody.png);
+  background-image: url(../img/bgBody.png);
   background-repeat: no-repeat;
   background-position-x: center;
   background-position-y: bottom;
